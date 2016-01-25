@@ -20,6 +20,7 @@
     <info 
         organisation="org.example"
         module="list"
+        branch="feature/wdtk-1234"
         status="integration"/>
     <configurations>
       <conf name="core"/>
