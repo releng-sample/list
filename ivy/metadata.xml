@@ -20,6 +20,7 @@
     <info 
         organisation="org.example"
         module="list"
+        branch="feature/gdtk-84"
         status="integration"/>
     <configurations>
       <conf name="core"/>
